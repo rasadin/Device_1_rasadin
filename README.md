@@ -1,0 +1,2 @@
+# Device_1_rasadin
+This is a smart parking system using Arduino, Distance Sensor and other several sensors. This system will help to the car drivers at parking time. The basic premise is that the closer a reversing car gets to an object, the greater the frequency of beeps from a buzzer. Eventually, if the car gets too close to an object, the buzzer will remain on continuously. Not only buzzer, but also LED will give a warning and the LCD will give the distance value. This system will reduce accident at parking time.
